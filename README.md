@@ -14,6 +14,6 @@
 ##
 
 <div> 
-  <a href = "mailto:fernando.mashimo@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=grey" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mashimo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mashimo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fernando.mashimo@yahoo.com.br"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=yahoo&logoColor=grey" target="_blank"></a>
 </div>
