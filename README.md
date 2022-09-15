@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning application, software and program development.
 - 🖥 I’m currently learning web development (JS, HTML & CSS).
 - 🤝 I’m currently looking to collaborate on early-stage web development projects.
-- 🎯 My target is to land a job in tech in 12 months.
+- 🎯 My target is to land a job in tech within 12 months.
 - 📭 You can reach me on fernando.mashimo@yahoo.com.br
 <div align="center"> 
   <a href="https://www.linkedin.com/in/mashimo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
