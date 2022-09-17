@@ -1,5 +1,7 @@
 ## 👨 Who I am
 - 🖖 Hi, I’m Fernando Mashimo.
+- 🌎 I have lived in São Paulo, Brazil through the whole of my life.
+- 👨‍👩‍👦‍👦 I'm a husband and father of 2.
 - 🖥 I’m currently a full-stack web development student at Trybe.
 - 🤝 I’m interested in collaborating on early-stage web development projects.
 - 👀 I’m interested in learning application, software and program development.
