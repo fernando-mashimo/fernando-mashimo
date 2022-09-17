@@ -1,10 +1,10 @@
 ## 👨 Who I am
-- 🖖 Hi, I’m Fernando Mashimo.
-- 🌎 I have lived in São Paulo, Brazil through the whole of my life.
-- 🖥 I’m currently a full-stack web development student at Trybe.
-- 🤝 I’m interested in collaborating on early-stage web development projects.
-- 👀 I’m interested in learning application, software and program development.
-- 🎯 My target is to land a job in tech within 12 months.
+🖖 Hi, I’m Fernando Mashimo.
+🌎 I have lived in São Paulo, Brazil through the whole of my life.
+🖥 I’m currently a full-stack web development student at Trybe.
+🤝 I’m interested in collaborating on early-stage web development projects.
+👀 I’m interested in learning application, software and program development.
+🎯 My target is to land a job in tech within 12 months.
 <div align="left">
   <a href="mailto:fernando.mashimo@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mashimo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
