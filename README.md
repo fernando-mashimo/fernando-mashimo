@@ -21,3 +21,11 @@
   <img alt="CSS 3" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS Vanilla" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+<br>
+
+## 📊 Figures
+<div align="justified">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-mashimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-mashimo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
