@@ -13,7 +13,7 @@
 
 <br>
 
-## 👨‍🎓 Technologies and Frameworks I'm currently learning
+## 👨‍🎓 Technologies and Frameworks
 <div align="left" style="display: inline_block">
   <img alt="Bash" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img alt="Git" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
