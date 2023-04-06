@@ -15,16 +15,19 @@
 
 ## 👨‍🎓 Technologies and Frameworks
 <div align="left" style="display: inline_block">
+  <img alt="JS Vanilla" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Node JS" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img alt="Docker" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  <img alt="My SQL" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">  
   <img alt="Bash" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img alt="Git" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-  <img alt="HTML 5" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS 3" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JS Vanilla" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <br><br>
-  <img alt="JEST" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img alt="Bootstrap" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img alt="React" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img alt="Redux" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+  <img alt="JEST" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  <img alt="Bootstrap" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img alt="HTML 5" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS 3" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <br>
