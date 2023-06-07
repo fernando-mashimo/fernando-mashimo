@@ -16,9 +16,11 @@
 ## 👨‍🎓 Technologies and Frameworks
 <div align="left" style="display: inline_block">
   <img alt="JS Vanilla" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img alt="Node JS" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img alt="My SQL" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="Sequelize" height="48" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg">
   <img alt="Docker" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-  <img alt="My SQL" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">  
   <img alt="Bash" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img alt="Git" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
   <br><br>
