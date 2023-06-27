@@ -9,7 +9,7 @@
 <div align="left">
   <a href="mailto:fernando.mashimo@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mashimo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/900173181506191360"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a>
+  <a href="https://discordapp.com/users/1086373600409432207"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a>
 </div>
 
 <br>
