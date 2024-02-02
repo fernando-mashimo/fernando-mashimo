@@ -5,7 +5,7 @@
 - 🤝 I’m interested in collaborating on early-stage web development projects, specially as Back-end engineer.
 - 👀 I’m interested in learning new ***Programming Languages***, ***Design Patterns*** and ***Software Architecture***.
 - 👨‍💻 Please, refer to [My Back-end Projects Repo](https://github.com/fernando-mashimo/back-end-projects) for some projects I've delivered in the past (as of June, 2023).
-- 👨‍💻 You can also find more recent applications that I was delighted to develop write here: [2024 Back-end Applications](https://github.com/fernando-mashimo/2024-back-end-applications/branches).
+- 👨‍💻 You can also find more recent applications that I was delighted to develop right here: [2024 Back-end Applications](https://github.com/fernando-mashimo/2024-back-end-applications/branches).
 
 <div align="left">
   <a href="mailto:fernando.mashimo@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
