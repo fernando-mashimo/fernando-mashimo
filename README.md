@@ -4,7 +4,7 @@
 - 🖥 I'm a Back-end Engineer since April, 2023, when I got my first professional assignment as a freelancer. I also do have some experience in Front-end development with React, HTML and CSS.
 - 🤝 I’m interested in collaborating on early-stage web development projects, specially as Back-end engineer.
 - 👀 I’m interested in learning new ***Programming Languages***, ***Design Patterns*** and ***Software Architecture***.
-- 👨‍💻 You can also find more recent applications that I was delighted to develop right here: [2024 Back-end Applications](https://github.com/fernando-mashimo/2024-back-end-applications/).
+- 👨‍💻 You will find some of the applications that I was delighted to develop right here: [2024 Back-end Applications](https://github.com/fernando-mashimo/2024-back-end-applications/).
 
 <div align="left">
   <a href="mailto:fernando.mashimo@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
