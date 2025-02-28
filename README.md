@@ -1,10 +1,9 @@
 ## 👨 Who I am
 - 🖖 Hi, I’m Fernando Mashimo.
 - 🌎 I live in São Paulo, Brazil since I was born. This city is not for the faint-hearted.
-- 🖥 I have concluded the Full-stack Web Development course at Trybe on August, 2023.
+- 🖥 I'm a Back-end Engineer since April, 2023, when I got my first professional assignment as a freelancer. I also do have some experience in Front-end development with React, HTML and CSS.
 - 🤝 I’m interested in collaborating on early-stage web development projects, specially as Back-end engineer.
 - 👀 I’m interested in learning new ***Programming Languages***, ***Design Patterns*** and ***Software Architecture***.
-- 👨‍💻 Please, refer to [My Back-end Projects Repo](https://github.com/fernando-mashimo/back-end-projects) for some projects I've delivered in the past (as of June, 2023).
 - 👨‍💻 You can also find more recent applications that I was delighted to develop right here: [2024 Back-end Applications](https://github.com/fernando-mashimo/2024-back-end-applications/).
 
 <div align="left">
