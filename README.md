@@ -1,10 +1,21 @@
 ## 👨 Who I am
-- 🖖 Hi, I’m Fernando Mashimo.
-- 🌎 I live in São Paulo, Brazil since I was born. This city is not for the faint-hearted.
-- 🖥 I'm a Back-end Engineer since April, 2023, when I got my first professional assignment as a freelancer. I also do have some experience in Front-end development with React, HTML and CSS.
-- 🤝 I’m interested in collaborating on early-stage web development projects, specially as Back-end engineer.
-- 👀 I’m interested in learning new ***Programming Languages***, ***Design Patterns*** and ***Software Architecture***.
-- 👨‍💻 You will find some of the applications that I was delighted to develop right here: [2024 Back-end Applications](https://github.com/fernando-mashimo/2024-back-end-applications/).
+- Hi, I’m Fernando Mashimo.
+- I'm a Back-end Engineer since April, 2023.
+- I'm well versed at:
+  - Node.js (TypeScript)
+  - Restful APIs
+  - Sync and Async (Event-driven) applications
+  - Hexagonal Architecture
+  - SQL and NoSQL databases: PostgreSQL, MySQL, DynamoDB and MongoDB
+  - Automated unit testing
+  - Codebase versioning with Git Flow or Trunk-based approaches
+  - AWS services: CDK, Lambda, SQS, RDS, EventBridge, S3, and others.
+  - Integration with third-party APIs.
+- I also do have some experience in Front-end development with React, HTML and CSS.
+- I live in São Paulo, Brazil since I was born. This city is not for the faint-hearted.
+- I’m interested in collaborating on early-stage web development projects, specially as Back-end engineer.
+- I’m interested in learning new ***Programming Languages***, ***Design Patterns*** and ***Software Architecture***.
+- You will find some of the applications that I was delighted to develop right here: [2024 Back-end Applications](https://github.com/fernando-mashimo/2024-back-end-applications/).
 
 <div align="left">
   <a href="mailto:fernando.mashimo@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
@@ -14,7 +25,7 @@
 
 <br>
 
-## 👨‍🎓 Technologies and Frameworks
+## 👨‍🎓 Technologies and Frameworks I've worked with
 <div align="left" style="display: inline_block">
   <img alt="Amazon Web Services" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <!--   <img alt="JS Vanilla" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
