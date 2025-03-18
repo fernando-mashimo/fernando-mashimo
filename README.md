@@ -15,7 +15,6 @@
 - I live in São Paulo, Brazil since I was born. I love where I live, despite not being perfect.
 - I’m interested in collaborating on early-stage web development projects, specially as Back-end engineer.
 - I’m interested in learning new ***Programming Languages***, ***Design Patterns*** and ***Software Architecture***.
-- You will find some of the applications that I was delighted to develop right here: [2024 Back-end Applications](https://github.com/fernando-mashimo/2024-back-end-applications/).
 
 <div align="left">
   <a href="mailto:fernando.mashimo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
