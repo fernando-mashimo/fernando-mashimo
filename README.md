@@ -1,6 +1,5 @@
 ## 👨 Who I am
 - Hi, I’m Fernando Mashimo.
-- I'm a Back-end Engineer since April, 2023.
 - I'm well versed at:
   - Node.js (TypeScript)
   - Restful APIs
